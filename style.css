@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h2{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+
+}
+body{
+    background-color:bisque;
+}
